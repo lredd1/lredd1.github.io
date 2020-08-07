@@ -1,0 +1,89 @@
+{
+  "firstName": "Lamar",
+  "lastName": "Redd",
+  "phoneNumber": "(916) 767-9769",
+  "email": "lreddsolutions@gmail.com",
+  "linkedIn": "linkedin.com/in/lamar-redd-0811a811a",
+  "university": "California State University Dominguez Hills",
+  "major": "Computer Science",
+  "graduationYearSemester": "Spring 2021",
+  "city": "San Diego",
+  "State": "CA",
+  "keySkills": [
+    "Software Development",
+    "Leadership",
+    "Collaboration",
+    "Testing & Debugging",
+    "Research & Analysis",
+    "Attention to Detail",
+    "Code Optimization",
+    "Multitasking"
+  ],
+  "technicalSkills": [
+    "Angular",
+    "TypeScript",
+    "Python",
+    "Webstorm",
+    "Pycharm",
+    "REST API",
+    "CSS",
+    "HTML",
+    ".NET",
+    "SharePoint",
+    "Visual Studio",
+    "jQuery",
+    "JavaScript",
+    "Java",
+    "C#",
+    "SQLite",
+    "Django",
+    "React",
+    "Integration Testing",
+    "Angular Unit Testing",
+    "Python Unit Testing"
+  ],
+  "objective": "Self-motivated, problem solving software specialist with 6+ years of experience in the developing, testing, and implementing various web-based applications. Result driven and proficient in a variety of programming languages and IDEs",
+  "experience": [
+    {
+      "company": "Linquest",
+      "city": "El Segundo",
+      "state": "CA",
+      "jobTitle": "Software Specialist",
+      "from": "7/2016",
+      "to": "10/2019",
+      "dailyTasks": [
+        "Develop both front-end and back-end of web-based application used for satellite mission planning.",
+        "Develop micro services for an application that makes calculations to determine what type of resources is needed to communicate to a specific satellite using Python.",
+        "Develop REST API using Angular.",
+        "Created sqlite database file using Python.",
+        "Unit testing with Python.",
+        "Unit testing with Angular and Karma unit testing library.",
+        "Review code and create code reviews for the code I developed.",
+        "Write scripts using JScript to programmatically create and diagrams, packages, and other elements within the SPARX EA application",
+        "Build website and webpages using SharePoint Designer, using XSLT, HTML, CSS, and jQuery."
+      ]
+    },
+    {
+      "company": "6th Street Consulting",
+      "city": "Redondo Beach",
+      "state": "CA",
+      "jobTitle": "Software Devloper",
+      "from": "6/2013",
+      "to": "7/2016",
+      "dailyTasks": [
+        "Developed web page applications using ASP .NET, C#, SQL, JavaScript, HTML, and jQuery.",
+        "Lead team of three developers to build several web applications using ASP .NET and C#.",
+        "Developed SQL code to read, write and update data in a SQL database with C#.",
+        "Developed web applications using ASP .NET for Microsoft SharePoint applications.",
+        "Built ASPX pages using ASP .NET.",
+        "Wrote technical designs for ASP .NET application with C#, JavaScript, jQuery, and HTML as used languages for new projects.",
+        "Review code and create code reviews for the code I developed."
+      ]
+    }
+  ],
+  "accomplishments": [
+    "Secret Level Security Clearance 11/2017",
+    "Microsoft SharePoint 2010, Application Development 2/2014",
+    "Systems Modeling Professional-Model User 2/2019"
+  ]
+}
